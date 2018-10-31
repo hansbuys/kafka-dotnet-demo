@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Kafka.Receiver": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

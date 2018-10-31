@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kafka.Infrastructure\Kafka.Infrastructure.csproj" />
+    <ProjectReference Include="..\Kafka.Service.Interfaces\Kafka.Service.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
